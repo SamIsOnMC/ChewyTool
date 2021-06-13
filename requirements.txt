@@ -1,0 +1,8 @@
+Python Reqs:
+click
+time
+os
+pathlib
+subprocess
+
+Linux Packages: 
